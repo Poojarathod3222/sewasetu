@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.5d601275.js",
+    "static/media/cleaning.jpg": "/static/media/cleaning.8b49bd82139e84eb3b9b.jpg",
+    "static/media/carRepair.jpg": "/static/media/carRepair.57d8001d77397b4748a7.jpg",
+    "static/media/electrician.jpg": "/static/media/electrician.f36b37d0949af7b33d8f.jpg",
+    "index.html": "/index.html",
+    "main.5d601275.js.map": "/static/js/main.5d601275.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5d601275.js"
+  ]
+}
